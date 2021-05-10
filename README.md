@@ -143,9 +143,6 @@ A Docker development environment must be initialized before building TensorFlow 
 
 Builds a Docker development image, starts the container and initializes dependencies required for building TFLite tool.
 
-### `yarn start:tflite:container`
-
-Starts the container, then updates TensorFlow and MediaPipe repositories inside the container.
 
 ### `yarn build:tflite:all`
 
